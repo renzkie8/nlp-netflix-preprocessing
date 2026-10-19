@@ -2,7 +2,7 @@
 
 Netflix review preprocessing with NLTK tokenization, normalization, stemming and lemmatization.
 
-**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year:** Year 3
+**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year / Section:** Year 3 — BSCS 3-A
 
 ## Methodology
 
